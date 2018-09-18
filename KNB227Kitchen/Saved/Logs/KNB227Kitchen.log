@@ -396,3 +396,10 @@ LogInit: Object subsystem initialized
 [2018.09.18-22.05.18:495][945]LogSavePackage: Moving '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Saved/NewMapFC1B3EFA411917B7AED4F0BB7AA18C19.tmp' to '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap.umap'
 [2018.09.18-22.05.18:625][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap_BuiltData.uasset" SILENT=true
 [2018.09.18-22.05.18:682][945]LogSavePackage: Moving '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Saved/NewMap_BuiltData84C4F60840FE64BF2AAF78A572F92D68.tmp' to '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap_BuiltData.uasset'
+[2018.09.18-22.08.42:587][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.48.59:439][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-22.48.59:454][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.18-22.48.59:633][648]LogSavePackage: Moving '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Saved/NewMap5074D9CB42EDDCEBB878C0AC315E5D9D.tmp' to '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap.umap'
+[2018.09.18-22.48.59:671][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap_BuiltData.uasset" SILENT=true
+[2018.09.18-22.48.59:714][648]LogSavePackage: Moving '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Saved/NewMap_BuiltData8565DEEA4420ECC9BA896A9CC65EA6A6.tmp' to '../../../../../../Users/Me/Documents/GitHub/KNB227Kitchen/KNB227Kitchen/Content/NewMap_BuiltData.uasset'
+[2018.09.18-22.49.01:235][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
